@@ -1,0 +1,76 @@
+
+* {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title-home {
+    font-size: 56px;
+    color: #5F00D5;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 40px;
+    color: #5F00D5;
+    text-align: center;
+}
+
+.title-pages {
+    font-size: 46px;
+    color: #5F00D5;
+    text-align: center;
+}
+
+.description {
+    font-size: 24px;
+    color: #00D5C9;
+    text-align: center;
+}
+
+.links {
+    font-size: 24px;
+    color: #00D5C9;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.ingredients {
+    display: inline-block;
+    font-size: 22px;
+    color: #00D5C9;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 37%;
+    margin-right: 30%;
+}
+
+.instructions {
+    font-size: 24px;
+    color: #5F00D5;
+    text-align: center;
+}
+
+.recipe {
+    display: inline-block;
+    font-size: 20px;
+    color: #5F00D5;
+    margin-top: .05%;
+    margin-bottom: 5%;
+    margin-left: 27%;
+    margin-right: 25%;
+}
+
+a {
+    display: block;
+    font-size: 20px;
+    color: #00D5C9;
+}
+
+img {
+    display: block;
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
